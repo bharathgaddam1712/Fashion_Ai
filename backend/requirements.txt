@@ -1,0 +1,9 @@
+express
+mongoose
+cors
+@pinecone-database/pinecone
+@google/generative-ai
+csv-parser
+bcryptjs
+jsonwebtoken
+dotenv
