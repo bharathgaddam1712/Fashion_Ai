@@ -182,7 +182,7 @@ The frontend is built using React and Vite. The UI interface is divided into sev
   - Check `.env` for the correct `VITE_API_URL`.
 - **Visual Search Not Working**:
   - Ensure the Pinecone API key and index name are correct in `backend/.env`.
-  - Verify that product data (`jeans_bd_processed_data_fixed.csv`) is loaded into Pinecone.
+  - Verify that product data (`fashion_data.csv`) is loaded into Pinecone.
 - **Recommendations Not Working**:
   - Ensure the Google Generative AI API key is correct in `backend/.env`.
 
