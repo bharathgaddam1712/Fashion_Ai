@@ -1,4 +1,4 @@
-# Fashion Visual Search & Intelligent Styling Assistant (FashionAi)
+# Fashion Visual Search & Intelligent Styling Assistant
 
 ## Overview
 The **Fashion Visual Search & Intelligent Styling Assistant** is a web application designed to help users browse, search, and discover fashion products. It leverages visual search technology powered by Pinecone for image-based product matching, provides personalized recommendations using Google Generative AI, and includes features like product browsing, trending items, and user authentication. The project is built with a React frontend, an Express.js backend, and MongoDB for user data storage.
@@ -160,6 +160,16 @@ FashionAI/
 ├── .gitignore                                 # Git ignore file
 └── README.md                                  # Project documentation
 ```
+
+## UI Interface
+
+The frontend is built using React and Vite. The UI interface is divided into several components:
+
+- **Login-Page**:
+![Drag Racing](UI-Images/SignIn.jpg)
+
+- **Home-Page**:
+![Drag Racing](UI-Images/Home.jpg)
 
 ## Troubleshooting
 - **Backend Fails to Start**:
